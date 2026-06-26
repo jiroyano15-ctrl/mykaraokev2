@@ -1,0 +1,6 @@
+{
+  "name": "My Karaoke",
+  "description": "A collaborative, real-time karaoke party tool where a group of people can queue and play YouTube songs together on a big screen with synced playback controls and automatic flow.",
+  "requestFramePermissions": ["microphone", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
